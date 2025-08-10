@@ -8,10 +8,10 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-DeGit--dev-green?style=for-the-badge&logo=github)](https://github.com/degit-dev)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-purple?style=for-the-badge&logo=discord)](https://discord.gg/degit)
-[![License](https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Building-yellow?style=for-the-badge)](https://degit.xyz)
+[![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Building-yellow?style=for-the-badge)]()
 
-[🌐 **Website**](https://degit.xyz) • [💬 **Discord**](https://discord.gg/degit) • [🐦 **Twitter**](https://twitter.com/degit_xyz) • [📧 **Early Access**](https://degit.xyz/early)
+[🌐 **Website**]() • [💬 **Discord**](https://discord.gg/degit) • [🐦 **Twitter**](https://twitter.com/) • [📧 **Early Access**]()
 
 </div>
 
