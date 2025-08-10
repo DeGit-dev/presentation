@@ -29,8 +29,8 @@ Whether you're fixing a typo, building core features, or helping grow our commun
 ## 🚀 **Getting Started**
 
 ### **1. Join Our Community**
-- 💬 **Discord**: [discord.gg/degit](https://discord.gg/degit) - Daily development discussion
-- 🐦 **Twitter**: [@degit_xyz](https://twitter.com/degit_xyz) - Follow our progress
+- 💬 **Discord**: [discord.gg/degit](https://discord.gg/) - Daily development discussion
+- 🐦 **Twitter**: [@degit_xyz](https://twitter.com/) - Follow our progress
 - 📧 **Newsletter**: Subscribe for weekly updates
 
 ### **2. Understand Our Vision**
@@ -416,7 +416,7 @@ We use GitHub Projects to track progress:
 
 #### **Reporting**
 - **Discord**: Direct message to moderators
-- **Email**: [conduct@degit.xyz](mailto:conduct@degit.xyz)
+- **Email**: [0xZunia@pm.me (temporary)](mailto:0xZunia@pm.me)
 - **Anonymous**: Use our anonymous reporting form (coming soon)
 
 #### **Consequences**
@@ -520,8 +520,8 @@ A: Start with the README files in each package, join Discord `#dev-chat`, and do
 6. **🎯 Make your first contribution**
 
 ### **Questions?**
-- **Discord**: [discord.gg/degit](https://discord.gg/degit)
-- **Email**: [contributors@degit.xyz](mailto:contributors@degit.xyz)
+- **Discord**: [discord.gg/ (coming soon)]()
+- **Email**: [0xZunia@pm.me (temporary)](mailto:0xZunia@pm.me)
 - **GitHub Discussions**: [Ask questions here](https://github.com/degit-dev/core/discussions)
 
 ---
@@ -532,7 +532,7 @@ A: Start with the README files in each package, join Discord `#dev-chat`, and do
 
 *Together, we're building the future of developer tools - owned by developers, for developers.*
 
-[![Join Discord](https://img.shields.io/badge/Join%20Discord-degit-purple?style=for-the-badge&logo=discord)](https://discord.gg/degit)
+[![Join Discord](https://img.shields.io/badge/Join%20Discord-degit-purple?style=for-the-badge&logo=discord)]()
 [![Start Contributing](https://img.shields.io/badge/Start%20Contributing-GitHub-green?style=for-the-badge&logo=github)](https://github.com/degit-dev/core/issues)
 
 </div>
