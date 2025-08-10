@@ -191,25 +191,25 @@ We're looking for **founding contributors** who want to build the future of deve
 
 ## 📅 **Development Roadmap**
 
-### **Q3 2024 - Foundation** 🔄
+### **Q4 2025 - Foundation** 🔄
 - [ ] Community building and contributor onboarding
 - [ ] Core architecture design and documentation
 - [ ] MVP development begins
 - [ ] Alpha testing program setup
 
-### **Q4 2024 - Alpha Release**
+### **Q1 2026 - Alpha Release**
 - [ ] Basic Git functionality with IPFS storage
 - [ ] Web3 wallet integration
 - [ ] Simple AI features (security scanning)
 - [ ] Community governance framework
 
-### **Q1 2025 - Beta Launch**
+### **Q2 2026 - Beta Launch**
 - [ ] Multi-chain deployment capabilities
 - [ ] Advanced AI development assistant
 - [ ] Mobile application (iOS/Android)
 - [ ] Enterprise features (organizations, access control)
 
-### **Q2 2025 - Public Launch**
+### **Q3 2026 - Public Launch**
 - [ ] Full platform feature completion
 - [ ] Ecosystem integrations and partnerships
 - [ ] Community DAO launch with token distribution
@@ -222,10 +222,10 @@ We're looking for **founding contributors** who want to build the future of deve
 ## 🌍 **Current Community**
 
 ### **Where to Find Us**
-- 💬 **Discord**: [discord.gg/degit](https://discord.gg/degit) - Daily development discussion
-- 🐦 **Twitter**: [@degit_xyz](https://twitter.com/degit_xyz) - Updates and announcements  
+- 💬 **Discord**: [discord.gg/ (coming soon)](https://discord.gg/) - Daily development discussion
+- 🐦 **X**: [@degit_dev (coming soon)](https://x.com) - Updates and announcements  
 - 📺 **YouTube**: Coming soon - Live coding and tutorials
-- 📧 **Newsletter**: [early-access@degit.xyz](mailto:early-access@degit.xyz) - Weekly progress updates
+- 📧 **Newsletter**: [0xZunia@pm.me (temporary)](mailto:0xZunia@pm.me) - Weekly progress updates
 
 ### **How to Contribute Right Now**
 1. **Join our Discord** and introduce yourself
@@ -317,12 +317,12 @@ We're not just building a platform - we're proving that critical developer infra
 
 **The future belongs to builders, not shareholders.**
 
-[![Join Early Access](https://img.shields.io/badge/Join%20Early%20Access-degit.xyz-blue?style=for-the-badge)](https://degit.xyz/early)
+[![Join Early Access (soon)](https://img.shields.io/badge/Join%20Early%20Access-degit.xyz-blue?style=for-the-badge)]()
 [![Start Contributing](https://img.shields.io/badge/Start%20Contributing-GitHub-green?style=for-the-badge)](https://github.com/degit-dev)
-[![Join Community](https://img.shields.io/badge/Join%20Community-Discord-purple?style=for-the-badge)](https://discord.gg/degit)
+[![Join Community (soon)](https://img.shields.io/badge/Join%20Community-Discord-purple?style=for-the-badge)](https://discord.gg/)
 
 ---
 
-*Building in public, owned by contributors | Est. 2024*
+*Building in public, owned by contributors | Est. 2026*
 
 </div>
