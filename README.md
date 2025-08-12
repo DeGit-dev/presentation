@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Building-yellow?style=for-the-badge)]()
 
-[🌐 **Website**]() • [💬 **Discord**](https://discord.gg/degit) • [🐦 **Twitter**](https://twitter.com/) • [📧 **Early Access**]()
+[🌐 **Website**]() • [💬 **Discord**]() • [🐦 **X**](https://x.com/degit_dev) • [📧 **Early Access**]()
 
 </div>
 
@@ -223,9 +223,9 @@ We're looking for **founding contributors** who want to build the future of deve
 
 ### **Where to Find Us**
 - 💬 **Discord**: [discord.gg/ (coming soon)](https://discord.gg/) - Daily development discussion
-- 🐦 **X**: [@degit_dev (coming soon)](https://x.com) - Updates and announcements  
+- 🐦 **X**: [@degit_dev](https://x.com/degit_dev) - Updates and announcements  
 - 📺 **YouTube**: Coming soon - Live coding and tutorials
-- 📧 **Newsletter**: [0xZunia@pm.me (temporary)](mailto:0xZunia@pm.me) - Weekly progress updates
+- 📧 **Newsletter**: [(coming soon)](mailto:) - Weekly progress updates
 
 ### **How to Contribute Right Now**
 1. **Join our Discord** and introduce yourself
